@@ -60,6 +60,7 @@ BenchmarkDotNet.Artifacts/
 project.lock.json
 project.fragment.lock.json
 artifacts/
+db.sqlite3/
 
 # StyleCop
 StyleCopReport.xml
